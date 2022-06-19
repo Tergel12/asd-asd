@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(https://imgs.search.brave.com/Tt5dAFJOfdLLJYz1WgbA8Q6JJxpjlNqywL8BOWnSxbU/rs:fit:1200:1200:1/g:ce/aHR0cDovL3dhbGxw/YXBlcmNhdmUuY29t/L3dwL1I5RXlZQlgu/anBn);
+    background-size: cover;
+}
